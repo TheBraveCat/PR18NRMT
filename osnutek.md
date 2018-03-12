@@ -1,1 +1,1 @@
-
+Midva sva se odločila, da bi poiskala najboljšo lokacijo za odprtje avtovleke glede na število nesreč po Sloveniji. Za zbiranje podatkov bi uporabila področje  Infrastruktura in promet na strani https://podatki.gov.si/, kjer bi pogledala zemljevid nesreč in ugotovila najboljšo lokacijo za naše podjetje. Hkrati pa bi tudi preverila kakšna je konkurenca in pa ali bi se nam splačalo tudi razširiti v center za urejanje registracij in tehničnih pregledov.
