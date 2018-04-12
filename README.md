@@ -33,8 +33,4 @@ Nato sva pogledala število nesreč, ki so se zgodile samo v tej regiji skozi le
   <img src="https://github.com/TheBraveCat/PR18NRMT/blob/master/images/accidentsInOsrednjeslovenska.PNG"/>
 </p>
 
-Za nadalnje ugotovitve in odgovore na naša vprašanja sva si tudi pripravila podatke o podjetjih in njihovih lokacijah za urejanje registracij in izvajanje tehničnih pregledov. Pri pripravi teh podatkov sva naletela na nekaj "nevšečnosti", saj se je v datoteko prikradel tiskarski škrat in vstavil nekaj elementov, ki jih codec utf-8 ni znal razbrati. Napako sva odpravila tako, da sva ročno pregledala datoteko in take elemente odstranila. 
-
-
-
-hehe xd
+Za nadalnje ugotovitve in odgovore na naša vprašanja sva si tudi pripravila podatke o podjetjih in njihovih lokacijah za urejanje registracij in izvajanje tehničnih pregledov. Pri pripravi teh podatkov sva naletela na nekaj "nevšečnosti", saj se je v datoteko prikradel tiskarski škrat in vstavil nekaj elementov, ki jih codec utf-8 ni znal razbrati. Napako sva odpravila tako, da sva ročno pregledala datoteko in take elemente odstranila.
