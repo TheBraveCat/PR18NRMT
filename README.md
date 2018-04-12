@@ -6,4 +6,8 @@ Midva sva se odločila, da bi poiskala najboljšo lokacijo za odprtje avtovleke 
   <img src="https://github.com/TheBraveCat/PR18NRMT/blob/master/images/allAccidentsYears.PNG"/>
 </p>
 
-Nato
+Nato sva pogledala na katerihi tipih cest je največ nesreč. 
+
+<p align="center">
+  <img src="https://github.com/TheBraveCat/PR18NRMT/blob/master/images/allAccidentsType.PNG"/>
+</p>
