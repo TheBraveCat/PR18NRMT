@@ -23,3 +23,5 @@ Zanima pa naju tudi pogostost cestnoprometnih nesreč glede na regijo zato sva s
 <p align="center">
   <img src="https://github.com/TheBraveCat/PR18NRMT/blob/master/images/allAccidentsRegions.PNG"/>
 </p>
+
+Ugotovila sva, da se največ nesreč dogaja v Osrednjeslovenski regiji
