@@ -24,4 +24,13 @@ Zanima pa naju tudi pogostost cestnoprometnih nesreč glede na regijo zato sva s
   <img src="https://github.com/TheBraveCat/PR18NRMT/blob/master/images/allAccidentsRegions.PNG"/>
 </p>
 
-Ugotovila sva, da se največ nesreč dogaja v Osrednjeslovenski regiji
+Ugotovila sva, da se največ nesreč dogaja v Osrednjeslovenski regiji, kar ni nič presenetljivega glede na to, da je gostota prebivalstva na tem območju največja.
+
+Nato sva pogledala število nesreč, ki so se zgodile samo v tej regiji skozi leta (tukaj podatki niso dostopni od leta 2003 do 2006).
+
+
+<p align="center">
+  <img src="https://github.com/TheBraveCat/PR18NRMT/blob/master/images/accidentsInOsrednjeslovenska.PNG"/>
+</p>
+
+Za nadalnje ugotovitve in odgovore na naša vprašanja sva si tudi pripravila podatke o podjetjih in njihovih lokacijah za urejanje registracij in izvajanje tehničnih pregledov. Pri pripravi teh podatkov sva naletela na nekaj "nevšečnosti", saj se je v datoteko prikradel tiskarski škrat in vstavil nekaj elementov, ki jih codec utf-8 ni znal razbrati. Napako sva odpravila tako, da sva ročno pregledala datoteko in take elemente odstranila. 
